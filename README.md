@@ -31,12 +31,13 @@ El repositorio se divide en los siguientes módulos principales:
 5. Deep Learning
 6. Data Engineering
 
+
 ¡Bienvenidos!
 
 **Comentarios y Aclaraciones**
 ----------------------------
 
-El repositorio se irá actualizando a medida que avancemos en el curso, incorporando la mayoria de los materiales de los diferentes sprints, así como material adicional que pueda ir surgiendo de las clases en directo y de los trabajos grupales.
+El repositorio se irá actualizando a medida que avancemos en el curso, incorporando la mayoria de los materiales de los diferentes sprints, así como material adicional que pueda ir surgiendo de las clases en directo y de los trabajos grupales. Siguiendo esta filosofía los módulos se irán liberando a medida que se vayan trabajando.
 
 Además, en este apartado iremos actualizando cualquier detalle importante que haya que tener en cuenta respecto al repositorio.
 
